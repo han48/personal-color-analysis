@@ -1,0 +1,31 @@
+PERSONAL COLOR AI — DATASET REPORT
+==================================================
+Generated  : 2026-09-04 08:30
+Total rows : 7,200
+Features   : 37
+Classes    : 16 sub-seasons
+
+Sub-season counts:
+  Autumn_Deep           : 450
+  Autumn_Muted          : 450
+  Autumn_Soft           : 450
+  Autumn_Warm           : 450
+  Spring_Bright         : 450
+  Spring_Clear          : 450
+  Spring_Light          : 450
+  Spring_Warm           : 450
+  Summer_Cool           : 450
+  Summer_Light          : 450
+  Summer_Muted          : 450
+  Summer_Soft           : 450
+  Winter_Bright         : 450
+  Winter_Clear          : 450
+  Winter_Cool           : 450
+  Winter_Deep           : 450
+
+Feature statistics (key):
+  face_L                : mean=57.40  std=16.52  [10.6, 98.0]
+  face_a                : mean=8.05  std=5.18  [-6.4, 29.5]
+  face_b                : mean=11.82  std=9.98  [-11.6, 38.3]
+  hair_L                : mean=29.43  std=15.96  [5.0, 73.3]
+  contrast_overall      : mean=0.30  std=0.10  [0.0, 0.7]

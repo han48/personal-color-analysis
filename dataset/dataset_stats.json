@@ -1,0 +1,51 @@
+{
+  "total_samples": 7200,
+  "n_features": 37,
+  "n_classes": 16,
+  "balance_ratio": 1.0,
+  "outlier_pct": 0.208,
+  "corr_face_hair_L": 0.4153,
+  "face_L_mean_by_season": {
+    "Spring": 63.9,
+    "Summer": 58.76,
+    "Autumn": 50.81,
+    "Winter": 56.13
+  },
+  "ethnicity_dist": {
+    "Asian": 3197,
+    "Caucasian": 2505,
+    "African": 1498
+  },
+  "feature_stats": {
+    "face_L": {
+      "mean": 57.3999,
+      "std": 16.5241,
+      "min": 10.603,
+      "max": 98.0
+    },
+    "face_a": {
+      "mean": 8.055,
+      "std": 5.1804,
+      "min": -6.354,
+      "max": 29.517
+    },
+    "face_b": {
+      "mean": 11.8154,
+      "std": 9.9829,
+      "min": -11.558,
+      "max": 38.303
+    },
+    "hair_L": {
+      "mean": 29.4266,
+      "std": 15.9639,
+      "min": 5.0,
+      "max": 73.332
+    },
+    "contrast_overall": {
+      "mean": 0.3044,
+      "std": 0.1048,
+      "min": 0.0227,
+      "max": 0.709
+    }
+  }
+}

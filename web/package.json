@@ -1,0 +1,17 @@
+{
+  "name": "personal-color-web",
+  "version": "1.0.0",
+  "description": "Personal Color AI – 100% client-side ONNX inference",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "onnxruntime-web": "1.18.0"
+  },
+  "devDependencies": {
+    "vite": "5.3.1"
+  }
+}
