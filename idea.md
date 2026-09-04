@@ -132,3 +132,7 @@ project/
 - Node.js chỉ dùng để build và serve static  
 - Tối ưu tốc độ load model và inference  
 - Tạo ví dụ minh họa kết quả dự đoán  
+
+# 7. Ý tưởng mở rộng
+- Cho phép người dùng chọn màu mà mình thích và thực hiện đề xuất dựa trên mầu người dùng (nếu ko chọn thì là default), nên train model riêng.
+- Cho phép người dùng xem thử kết quả phối màu (bằng AI Gennerate), cho phép người dùng chọn loại quần áo, chọn màu sắc, tạo ảnh theo nội dung với gương mặt màu da giữ nguyên. Nếu AI yêu cầu hiệu năng cao quá thì xem xét sử dụng phương pháp replace color với các template style có sẵn.
